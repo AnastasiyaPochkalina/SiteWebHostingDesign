@@ -1,0 +1,248 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 0;
+}
+
+#Conteiner{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#ImgLogo{
+	position: absolute;
+	width: 30%;
+	margin: 5% 0% 0% -93%;
+	pointer-events: none;
+}
+
+.ImgMenuHead{
+    width: 2.5%;
+    height: auto;
+	position: absolute;
+	pointer-events: none;
+}
+
+#ImgMenu{
+	width:100%;
+	position: relative;
+	height: auto;
+	pointer-events: none;
+}
+
+.ImgMenuHead1{
+	 margin: 0.5% 1% 1% -88%;
+   
+}
+
+.ImgMenuHead2{
+	 margin: 0.5% 1% 1% -84%;
+}
+
+.ImgMenuHead3{
+	 margin: 0.5% 1% 1% -80%;
+}
+
+#PriceConteiner{
+	width: 100%;
+	height:700px;
+	background: #151515;
+}
+
+#RegDominConteiner{
+	width: 100%;
+	height:250px;
+	background: #080808;
+}
+
+p{
+	font-family: Calibri;
+	color: #666;
+}
+
+.FormatText{
+	position: absolute;
+	font-size: 1.8vw;
+	margin: -45.3% 5% 5% 55%;
+}
+
+.FormatPhone{
+	color: #9c9c9c;
+}
+
+.FormatMenu{
+	position: absolute;
+	font-size: 1.8vw;
+}
+
+.FormatHome{
+	margin: -36% 5% 5% 47%;
+	color: #dd00ff;
+}
+
+.ImgFormatLine{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	pointer-events: none;
+	width: 0.07%;
+}
+
+.ImgLineFormat{
+	margin: -36% 5% 5% 53%;
+	}
+	
+.FormatHosting{
+	margin: -36% 5% 5% 54.8%;
+	color: black;
+}
+	
+.ImgLine2Format{
+	margin: -36% 5% 5% 62%;
+}
+	
+.FormatFeatures{
+	margin: -36% 5% 5% 63.8%;
+	color: black;
+}
+
+.ImgLine3Format{
+	margin: -36% 5% 5% 71.6%;
+}
+
+.FormatAbout{
+	margin: -36% 5% 5% 73.4%;
+	color: black;
+}
+
+.ImgLine4Format{
+	margin: -36% 5% 5% 79.4%;
+}
+
+.FormatSupport{
+	margin: -36% 5% 5% 81%;
+	color: black;
+}
+
+.ImgLine5Format{
+	margin: -36% 5% 5% 88%;
+}
+
+.FormatContacts{
+	margin: -36% 5% 5% 89.6%;
+	color: black;
+}
+
+.SimpleFormat{
+	position: absolute;
+	font-size: 7vw;
+	margin: -27% 60% 0% 10%;
+	line-height: 80%;
+	color: black;
+}
+
+.SimpleHWT{
+	font-size: 2.5vw;
+	position: absolute;
+	color: #dd00ff;
+	margin: -8% 0% 0% 10.6%;
+}
+
+.SimpleTM{
+	font-size: 2.5vw;
+	position: absolute;
+	margin: -6% 0% 0% 10.6%;
+}
+
+#ConteinerSmall{
+	position: absolute;
+	margin: 5% 0% 0% 10%;
+}
+
+.FormatSmall{
+	font-size: 5vw;
+	margin: 4% 0% 0% 0%;
+	color: #7fff00;
+}
+
+.FormatSmallPrice{
+	font-size: 3vw;
+	margin: 0.1% 0% 0% 0%;
+	color: #9c9c9c;
+}
+
+.FormatTextPrice{
+	position: absolute;
+	font-size: 1.5vw;
+}
+
+.FormatDSS{
+	margin: 13% 0% 0% 11%;
+	
+}
+
+.ImgLineHor{
+	position: absolute;
+	width: 20%;
+	height: 2px;
+}
+
+.ImgLineHor1Format{
+	margin: 15.1% 0% 0% 11%;
+}
+
+.FormatMDTS{
+	margin: 15.3% 0% 0% 11%;
+}
+
+.ImgLineHor2Format{
+	margin: 17.3% 0% 0% 11%;
+}
+
+.FormatFTP{
+	margin: 17.6% 0% 0% 11%;
+}
+
+.ImgLineHor3Format{
+	margin: 19.7% 0% 0% 11%;
+}
+
+.FormatEB{
+	margin: 20% 0% 0% 11%;
+}
+
+.ImgLineHor4Format{
+	margin: 22% 0% 0% 11%;
+}
+
+.FormatFD{
+margin: 22.3% 0% 0% 11%;
+}	
+
+.ImgButt{
+	width: 10%;
+}
+
+.ImgButtSmall{
+	margin: 26% 0% 0% 15%;
+}
+
+#ConteinerMedium{
+	margin: -28.8% 0% 0% 30%;
+}
+
+.BlueColor{
+	Color: #00b3ff;
+}
+
+.ImgButtM{
+	width: 14.3%;
+	margin: 37.1% 0% 0% 21%;
+}
+
+#ConteinerUnlimited{
+	margin: -28.8% 0% 0% 60%;
+}
